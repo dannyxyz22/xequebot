@@ -1,0 +1,20 @@
+{
+  "name": "xequebot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "waha.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "csv-parser": "^3.2.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.1"
+  }
+}
